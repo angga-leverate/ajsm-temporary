@@ -1,0 +1,29 @@
+{
+  "name": "ajsmclient",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.4.2",
+    "@fortawesome/free-solid-svg-icons": "^6.4.2",
+    "@fortawesome/react-fontawesome": "^0.2.0",
+    "axios": "^1.5.1",
+    "bootstrap": "^5.3.1",
+    "jquery": "^3.7.1",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.4",
+    "next": "^13.5.4",
+    "next-intl": "^3.0.0-beta.16",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-slick": "^0.29.0",
+    "reactstrap": "^9.2.0",
+    "sharp": "^0.32.6",
+    "slick-carousel": "^1.8.1"
+  }
+}
